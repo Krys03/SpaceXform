@@ -153,3 +153,13 @@
     color: #27cdff;
     font-weight: 600;
   }
+
+
+  .buttondown{
+    outline: none;
+    border: none;
+    background: none ;
+    color: aqua;
+    font-weight: 700;
+    cursor: pointer;
+  }
