@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spaceXform/static/css/main.25f49060.chunk.css",
+    "main.js": "/spaceXform/static/js/main.a021a496.chunk.js",
+    "main.js.map": "/spaceXform/static/js/main.a021a496.chunk.js.map",
+    "runtime-main.js": "/spaceXform/static/js/runtime-main.174e603b.js",
+    "runtime-main.js.map": "/spaceXform/static/js/runtime-main.174e603b.js.map",
+    "static/js/2.3462a257.chunk.js": "/spaceXform/static/js/2.3462a257.chunk.js",
+    "static/js/2.3462a257.chunk.js.map": "/spaceXform/static/js/2.3462a257.chunk.js.map",
+    "static/js/3.47404652.chunk.js": "/spaceXform/static/js/3.47404652.chunk.js",
+    "static/js/3.47404652.chunk.js.map": "/spaceXform/static/js/3.47404652.chunk.js.map",
+    "index.html": "/spaceXform/index.html",
+    "static/css/main.25f49060.chunk.css.map": "/spaceXform/static/css/main.25f49060.chunk.css.map",
+    "static/js/2.3462a257.chunk.js.LICENSE.txt": "/spaceXform/static/js/2.3462a257.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.174e603b.js",
+    "static/js/2.3462a257.chunk.js",
+    "static/css/main.25f49060.chunk.css",
+    "static/js/main.a021a496.chunk.js"
+  ]
+}
